@@ -9,6 +9,7 @@ It is intended for learning, experimentation, and practicing JavaScript logic.
 - Real-time updates of total items and total price
 - Clear cart and submit purchase actions
 - Live view here : https://yousri25.github.io/simple-js-shop/
+- Assets and Images can be found here : https://www.peets.com
 
 ## Technologies Used
 - HTML
