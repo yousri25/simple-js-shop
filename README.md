@@ -8,6 +8,7 @@ It is intended for learning, experimentation, and practicing JavaScript logic.
 - Add and remove items from the shopping cart
 - Real-time updates of total items and total price
 - Clear cart and submit purchase actions
+- Live view here : https://yousri25.github.io/simple-js-shop/
 
 ## Technologies Used
 - HTML
